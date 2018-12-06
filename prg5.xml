@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="prg5a.css" ?>
+
+<students>
+
+<student>
+<usn>USN : 4VV16CS402</usn>
+<name>NAME : Manoj</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2016</year>
+<email>EMAIL : manoj123@gmail.com</email>
+<p>******************************</p>
+</student>
+
+
+<student>
+<usn>USN:4VV16CS405</usn>
+<name>NAME:Jaipal</name>
+<college>COLLEGE:VVCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2016</year>
+<email>EMAIL : jaipal234@gmail.com</email>
+<p>******************************</p>
+</student>
+
+
+<student>
+<usn>USN : 4VV16CS412</usn>
+<name>NAME : Manu</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : Computer Science and Engineering </branch>
+<year>YEAR : 2016</year>
+<email>EMAIL : manu345@gmail.com</email>
+<p>******************************</p>
+</student>
+
+</students>

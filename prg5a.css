@@ -1,0 +1,51 @@
+students
+{
+	background-color:cyan;
+	margin-left:400px;
+	font-size:20px;
+}
+
+student
+{
+	display:block;
+}
+
+usn,name,college,branch,year,email,p
+{
+	display:block;
+}
+
+usn
+{
+	color:red;
+}
+name
+{
+	color:green;
+	margin-left:10px;
+}
+college
+{
+	color:orange;
+	margin-left:10px;
+}
+branch
+{
+    color:blue;
+	margin-left:10px;
+}
+year
+{
+    color:purple;
+	margin-left:10px;
+}
+email
+{
+    color:dark;
+	margin-left:10px; 
+	
+}	
+p
+{
+	color:cyan;
+}
